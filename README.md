@@ -19,6 +19,7 @@ Numpy : open cmd and type "pip install numpy"
 ![alt text](https://github.com/Jumpy237/Test-Test-Test/blob/master/dataset.PNG)
 
 processe dataset to:
+
 sunny = 0
 rainny = 1
 overcast = 2
