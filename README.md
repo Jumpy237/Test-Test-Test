@@ -20,23 +20,34 @@ Numpy : open cmd and type "pip install numpy"
 
 processe dataset to:
 
+**outlook
+
 sunny = 0
 rainny = 1
 overcast = 2
 
-Temp
+**Temp
+
 Hot = 0
+
 Mild = 1
+
 Cold = 2
 
-Humidity
+**Humidity
+
 high = 1
+
 noromal = 0
 
-Windy
+**Windy
+
 True = 1
+
 False = 0
 
-Play Golf
+**Play Golf
+
 No = 0
+
 Yes = 1
