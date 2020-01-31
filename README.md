@@ -23,7 +23,9 @@ processe dataset to:
 **outlook**
 
 sunny = 0
+
 rainny = 1
+
 overcast = 2
 
 **Temp**
